@@ -1,0 +1,189 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+header{
+	padding-top: 13px;
+	padding-bottom: 5px;
+background-color:#121B2A;
+}
+.wrapper{
+	margin:0 auto;
+width:80%;
+}
+.logo{
+	width:13%;
+
+display: inline-block;
+}
+.logo img{
+	width:100%;
+
+}
+.menu{
+	width:73%;
+margin-top: 44px;
+float:right;
+}
+.menu ul{
+float:right;
+}
+.menu ul li{
+	list-style: none;
+float:left;
+
+}
+.menu ul li a{
+	margin:0 40px;
+	display: inline-block;
+	font-size:16px;
+	font-weight: 400;
+	color:white;
+	transition: .5s;
+text-decoration: none;
+}
+.menu ul li a:hover{
+	color:blue;
+
+}
+
+.banner{
+	min-height: 450px;
+background-image: url(images/banner.jpg);
+background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+}
+.b_content{
+	margin-top: 180px;
+width:50%;
+}
+.cor{
+	color:white;
+	font-size:30px;
+	font-family: sans-serif;
+}
+.b_content h1{
+	color:#0075BB;
+	font-size: 35px;
+	font-family: sans-serif;
+
+}
+.b_content p{
+		color:white;
+	font-weight: 400;
+	font-family: sans-serif;
+	
+
+}
+.b_content button{
+				border:none;
+				padding:10px 20px;
+				border-radius: 5px;
+				color:#5A5A5A;
+				font-size: 18px;
+				margin-top: 20px;
+}
+.b_content button span{
+		background-color: blue;
+		padding:4px 7px;
+		border-radius: 50%;
+		color:white;
+		font-size: 16px;
+		margin-left: 10px;
+
+}
+
+.service{
+	background-color: #121B2C;
+	padding:50px 0;
+	min-height: 260px;
+	
+
+}
+.single{
+	
+	margin-top: 30px;
+	
+	width:25%;
+	padding: 10px 48px;
+	float: left;
+
+
+
+
+	
+}
+.title{
+	overflow: hidden;
+
+}
+.icon{
+	width: 25%;
+	float: left;
+}
+.icon img{
+	width:100%;
+
+}
+.icon-content{
+	margin-top: 9px;
+	width:65%;
+	float: left;
+
+}
+.icon-content h1{
+	color:white;
+	text-transform: capitalize;
+	font-family: sans-serif;
+	font-weight: normal;
+
+
+}
+.icon-content h2{
+	color:#0078BF;
+	text-transform: capitalize;
+	font-family: sans-serif;
+	font-weight: normal;
+
+
+}
+.content{
+
+}
+.content p{
+	color:white;
+	font-family: sans-serif;
+	line-height: 1.5;
+
+}
+.top-foot{
+	background-color: black;
+	padding:50px 0;
+	min-height: 260px;
+	
+}
+.i-content{
+width:20px;
+
+
+}
+.i-content h1{
+	color:white;
+	text-transform: capitalize;
+	font-family: sans-serif;
+	font-weight: normal;
+	display: inline-block;
+
+
+
+}
+.i-content h2{
+	
+	color:#0078BF;
+	text-transform: capitalize;
+	font-family: sans-serif;
+	font-weight: normal;
+
+
+}
